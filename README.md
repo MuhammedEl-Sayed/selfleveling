@@ -1,10 +1,10 @@
 # Self Leveling Table - Arduino Uno
----
+
 ## Table of Contents
 1. [Required Libraries](#reqLibs)
 2. [How to Install Libraries in VSC](#libs)
 
----
+
 ## <a name="reqLibs">  Required Libraries
 1. MPU6050_tockn
 2. L298N (by Andrea Lombardo)</a>
