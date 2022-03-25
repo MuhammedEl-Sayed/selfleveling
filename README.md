@@ -5,12 +5,12 @@
 2. [How to Install Libraries in VSC](#libs)
 
 ---
-<a name="reqLibs"> ## Required Libraries
+## <a name="reqLibs">  Required Libraries
 1. MPU6050_tockn
 2. L298N (by Andrea Lombardo)</a>
 
-<a name="libs"> ## Requires MPU6050_tockn library. This can be installed via Arduino Library Manager:
-1. If using VSC + Arduino Extension, press CTRL + SHIFT + P. </a>
+## <a name="libs"> Requires MPU6050_tockn library. This can be installed via Arduino Library Manager: </a>
+1. If using VSC + Arduino Extension, press CTRL + SHIFT + P. 
 
 ![image](https://user-images.githubusercontent.com/54396271/155275067-bfee132e-480b-4599-b2d9-7e3fcc3789d1.png)
 
